@@ -1,0 +1,24 @@
+﻿  mainFunction.cpp
+D:\Game_1Year\jampTower\DxLib_VC\include\DxLib.h(3811,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+D:\Game_1Year\jampTower\mainFunction.cpp(59,44): warning C4244: '=': 'LONGLONG' から 'double' への変換です。データが失われる可能性があります。
+D:\Game_1Year\jampTower\mainFunction.cpp(130,44): warning C4244: '=': 'LONGLONG' から 'double' への変換です。データが失われる可能性があります。
+D:\Game_1Year\jampTower\mainFunction.cpp(192,44): warning C4244: '=': 'LONGLONG' から 'double' への変換です。データが失われる可能性があります。
+D:\Game_1Year\jampTower\mainFunction.cpp(270,48): warning C4244: '=': 'LONGLONG' から 'double' への変換です。データが失われる可能性があります。
+D:\Game_1Year\jampTower\mainFunction.cpp(308,48): warning C4244: '=': 'LONGLONG' から 'double' への変換です。データが失われる可能性があります。
+D:\Game_1Year\jampTower\mainFunction.cpp(339,56): warning C4244: '=': 'LONGLONG' から 'double' への変換です。データが失われる可能性があります。
+  mainJampTower.cpp
+D:\Game_1Year\jampTower\DxLib_VC\include\DxLib.h(3811,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  mapFunction.cpp
+D:\Game_1Year\jampTower\DxLib_VC\include\DxLib.h(3811,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+D:\Game_1Year\jampTower\mapFunction.cpp(136,15): warning C4101: 'x': ローカル変数は 1 度も使われていません。
+  playerFunction.cpp
+D:\Game_1Year\jampTower\DxLib_VC\include\DxLib.h(3811,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  soundFunction.cpp
+D:\Game_1Year\jampTower\DxLib_VC\include\DxLib.h(3811,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  コード生成しています。
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  Sample_Original.vcxproj -> D:\Game_1Year\jampTower\x64\Release\Sample_Original.exe
+  'pwsh.exe' は、内部コマンドまたは外部コマンド、
+  操作可能なプログラムまたはバッチ ファイルとして認識されていません。

@@ -1,0 +1,7 @@
+C:\Users\imaimasayuki\Documents\Csor\Sample_Original\x64\Debug\Sample_Original.exe
+D:\素材\Sample_Original\x64\Debug\Sample_Original.exe
+E:\Game_1Year\jampTower\x64\Debug\Sample_Original.exe
+D:\Game_1Year\jampTower\x64\Debug\Sample_Original.exe
+C:\Users\student\Desktop\jampTower\x64\Debug\Sample_Original.exe
+S:\Desktop\jampTower\x64\Debug\Sample_Original.exe
+C:\Users\rei\Desktop\jampTower\x64\Debug\Sample_Original.exe

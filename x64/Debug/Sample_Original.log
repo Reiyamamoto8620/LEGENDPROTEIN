@@ -1,0 +1,7 @@
+﻿  mainFunction.cpp
+C:\Users\student\Desktop\jampTower\DxLib_VC\include\DxLib.h(3811,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\student\Desktop\jampTower\mainFunction.cpp(57,44): warning C4244: '=': 'LONGLONG' から 'double' への変換です。データが失われる可能性があります。
+C:\Users\student\Desktop\jampTower\mainFunction.cpp(128,44): warning C4244: '=': 'LONGLONG' から 'double' への変換です。データが失われる可能性があります。
+C:\Users\student\Desktop\jampTower\mainFunction.cpp(231,48): warning C4244: '=': 'LONGLONG' から 'double' への変換です。データが失われる可能性があります。
+C:\Users\student\Desktop\jampTower\mainFunction.cpp(262,56): warning C4244: '=': 'LONGLONG' から 'double' への変換です。データが失われる可能性があります。
+  Sample_Original.vcxproj -> C:\Users\student\Desktop\jampTower\x64\Debug\Sample_Original.exe

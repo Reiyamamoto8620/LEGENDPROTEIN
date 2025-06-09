@@ -1,0 +1,4 @@
+C:\Users\student\Desktop\jampTower\x64\Release\Sample_Original.exe
+F:\Game_1Year\jampTower\x64\Release\Sample_Original.exe
+D:\Game_1Year\jampTower\x64\Release\Sample_Original.exe
+G:\Game_1Year\jampTower\x64\Release\Sample_Original.exe
